@@ -55,10 +55,6 @@ The following optional and variant rules are being used:
 
 Getting a critical success on initiative rolls grants an additional action on your first turn.
 
-### Lucky Feat Fix
-
-You must declare the use of the Lucky feat before you roll and it grants advantage.
-
 ### Modified Help Action
 
 - Characters must be proficient in activities they wish to help another character with.
