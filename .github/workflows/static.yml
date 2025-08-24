@@ -33,11 +33,25 @@ jobs:
         uses: actions/checkout@v4
       - name: Setup Pages
         uses: actions/configure-pages@v5
+      - name: Setup node
+        uses: actions/setup-node@v3
+        with:
+          node-version: "18"
+      - name: Make public directory
+        run: mkdir public
+      - name: Move root index.html
+        run: mv index.html public/index.html
+      - name: "Build: The Archives/D&D 5E Player Primer"
+        run: |
+          cd "The Archives/D&D 5E Player Primer" && \
+            npm install && \
+            npm run build -- --pathprefix="/the-lost-library/pp/" && \
+            cp -r _site/ ../../public/pp/ && \
+            cd ../../
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          # Upload index.html
-          path: "index.html"
+          path: "public"
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
