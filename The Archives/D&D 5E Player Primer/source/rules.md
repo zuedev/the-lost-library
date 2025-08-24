@@ -55,20 +55,6 @@ The following optional and variant rules are being used:
 
 Getting a critical success on initiative rolls grants an additional action on your first turn.
 
-### Potion Toxicity
-
-If a player consumes more than one potion before finishing a long rest, they must make a Constitution saving throw after drinking it. The DC of the saving throw is equal to strength of the potion you drank. If you drink three or more potions before completing a long rest, you have disadvantage on this saving throw.
-
-| Potion Rarity | Potion Toxicity DC |
-| ------------- | ------------------ |
-| Common        | 9                  |
-| Uncommon      | 11                 |
-| Rare          | 13                 |
-| Very Rare     | 15                 |
-| Legendary     | 17                 |
-
-On a success, their body is able to withstand the residual magic from multiple potions mingling in their body. On a failure, the magic overpowers them. They feel queasy and vomit, taking acid damage equal to 1 + 1d8 per level of rarity of the potion and gain a toxicity effect. For example, a rare potion deals 3d8 + 1 acid damage and applies an effect from the Wild Magic Surge table.
-
 ### Special Actions
 
 You can forgo your movement, bonus action, and reaction in a turn to do a special action instead, these are listed below:
