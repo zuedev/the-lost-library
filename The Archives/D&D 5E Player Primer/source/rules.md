@@ -53,7 +53,7 @@ The following optional and variant rules are being used:
 
 ### Critical Initiative
 
-Getting a critical success on initiative rolls changes their bonus action into a normal action for their first turn, whereas a critical fail restricts them to only movement or an action with no bonus actions.
+Getting a critical success on initiative rolls grants an additional action on your first turn.
 
 ### Lucky Feat Fix
 
