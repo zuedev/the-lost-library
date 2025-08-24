@@ -55,10 +55,6 @@ The following optional and variant rules are being used:
 
 Getting a critical success on initiative rolls grants an additional action on your first turn.
 
-### Modified Help Action
-
-- Characters must be proficient in activities they wish to help another character with.
-
 ### Potion Toxicity
 
 If a player consumes more than one potion before finishing a long rest, they must make a Constitution saving throw after drinking it. The DC of the saving throw is equal to strength of the potion you drank. If you drink three or more potions before completing a long rest, you have disadvantage on this saving throw.
