@@ -10,7 +10,7 @@ When making your character on D&D Beyond, please follow these guidelines:
 | Optional Features     | Allowed                                                      |
 | Customize Your Origin | Allowed                                                      |
 | Advancement Type      | Milestone                                                    |
-| Hit Point Type        | Fixed                                                        |
+| Hit Point Type        | Fixed or gamble (rolled by DM)                               |
 | Use Prerequisites     | Both feat and multiclass prerequisites should be enabled     |
 | Encumbrance           | Variant                                                      |
 | Ignore Coin Weight    | Disabled                                                     |
