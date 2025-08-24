@@ -15,12 +15,6 @@ When making your character on D&D Beyond, please follow these guidelines:
 | Encumbrance           | Variant                                                      |
 | Ignore Coin Weight    | Disabled                                                     |
 
-We also have the following changes to character creation:
-
-### Level 1 Extra Feat
-
-All characters are allowed to pick up an extra feat at level 1.
-
 ## Additional, Optional, & Variant Rules
 
 The following optional and variant rules are being used:
