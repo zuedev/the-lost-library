@@ -55,18 +55,6 @@ The following optional and variant rules are being used:
 
 Getting a critical success on initiative rolls grants an additional action on your first turn.
 
-### Special Actions
-
-You can forgo your movement, bonus action, and reaction in a turn to do a special action instead, these are listed below:
-
-- **Heavy Blow:** Gain advantage on one melee attack this turn.
-- **Aimed Shot:** Aim for a specific point, such as a limb, for a specific desired effect.
-- **Focused Casting:**
-  - **Melee:** Gain advantage on one melee spell attack this turn.
-  - **Ranged:** Aim for a specific point, such as a limb, for a specific desired effect.
-  - **Saving throw:** Your spell save DC increases by +1.
-- **Fully Digest Potion:** Instead of using a bonus action to drink a potion, you can use a special action to drink a potion and gain the full benefits of the potion instead of having to roll. For example, a potion of healing would heal you for the full amount of 10 instead of rolling 2d4 + 2.
-
 ### A Hero's End
 
 When a character dies, they can choose to have a hero's end. This allows them to make a final special action before they die. This action cannot be used to heal themselves or save themselves from death. It can be used to save another character, deal a final blow to an enemy, or any other heroic action they wish to take. When they take this action, they waive rolling death saving throws and die at the end of their action.
